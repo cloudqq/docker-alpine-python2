@@ -1,7 +1,3 @@
-[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-python2.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-python2/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-python2.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-python2/)
-
-
 Python 2.7 Docker image
 =======================
 
